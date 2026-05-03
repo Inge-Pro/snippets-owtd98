@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Inge-Pro.github.io/snippets-owtd98/sitemap.xml
